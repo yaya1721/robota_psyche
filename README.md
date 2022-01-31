@@ -1,2 +1,2 @@
-# robota_psyche
+# Robota Psyche
 Spring 2022
