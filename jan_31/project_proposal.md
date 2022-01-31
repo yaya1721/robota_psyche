@@ -12,3 +12,5 @@ Robots, arts, and metaverse
 
 ### Notes
 - Influence on human >> technology
+- 15 min presentation + 5-7 min discussion
+- discussion-leading, provoking
