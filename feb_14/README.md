@@ -10,8 +10,7 @@
   - right now, only one ball will display at a time
 
 ### Problems/Challenges
-- Review the mouseClicked function and use a global boolean to control the (dis)appearance of the ball
-- 
+- Review the mouseClicked function and use a global boolean to control the (dis)appearance of the ball 
 
 
 
