@@ -13,5 +13,7 @@
 - Need to review the mouseClicked function and use a global boolean to control the (dis)appearance of the ball 
 - Haven't designed the best way that ball should move
 
+![Alt Text](https://media.giphy.com/media/1QQkbv3XpUIGrbUYDl/giphy.gif)
+
 
 
