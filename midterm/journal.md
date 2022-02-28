@@ -2,4 +2,4 @@
 * Design mechanism 
 * Code
 * Debug
-* Upgrade Visuals
+* Upgrade visuals
