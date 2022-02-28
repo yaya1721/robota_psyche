@@ -9,6 +9,7 @@
   - after ball is brought back to the human, the ball will disappear 
   - right now, only one ball will display at a time
 - Since it's an ecosystem, there will be multiple Human-Dog-Ball pairs. Each Human-Dog-Ball pair will have a unique color. 
+-   To avoid chaos, there is only one user-controlled dog.
 - Involve keyboard intervention
 - Other intervention simulating nature, e.g. sunlights, winds, dog-dog interaction
 
